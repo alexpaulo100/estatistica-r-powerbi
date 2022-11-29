@@ -2,10 +2,6 @@
 
 # Parte 2 - Medidas de Dispersão
 
-
-setwd("C:/Users/padrao/OneDrive/Documentos/Curso-Power-BI-DSA/Cap12/projetos")
-getwd()
-
 # Carregando o dataset
 
 vendas <- read.csv("Vendas.csv", fileEncoding = "windows-1252")

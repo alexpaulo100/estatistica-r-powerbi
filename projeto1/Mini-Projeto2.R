@@ -4,8 +4,6 @@
 
 # Definindo a pasta de trabalho
 # Substitua o caminho abaixo pela pasta no seu computador
-setwd("C:/Users/padrao/OneDrive/Documentos/Curso-Power-BI-DSA/Cap12/git")
-getwd()
 
 # Instala os pacotes
 install.packages("dplyr")

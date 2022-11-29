@@ -3,9 +3,6 @@
 # Parte 4 - Tabela de Frequencia  
 
 
-setwd("C:/Users/padrao/OneDrive/Documentos/Curso-Power-BI-DSA/Cap12/projetos")
-getwd()
-
 # Carregando os Dados
 dados <- read.table("Usuarios.csv",
                     dec = ".",

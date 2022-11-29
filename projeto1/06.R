@@ -5,9 +5,6 @@
 # Graficos em R - BarPlot, Pie Chart, Line Chart, Scatter Plot, Histograma e Treemap
 # http://www.r-graph-gallery.com/
 
-setwd("C:/Users/padrao/OneDrive/Documentos/Curso-Power-BI-DSA/Cap12/projetos")
-getwd()
-
 # Dados
 vetor_total_resultados = c(3, 12, 5, 18, 45)
 names(vetor_total_resultados) = c("A", "B", "C", "D", "E")

@@ -1,10 +1,6 @@
 # Exercicio 1 Cap 12
 
 
-setwd("C:/Users/padrao/OneDrive/Documentos/Curso-Power-BI-DSA/Cap12/git")
-getwd()
-
-
 notas <- read.csv("Notas.csv", fileEncoding = "windows-1252")
 
 

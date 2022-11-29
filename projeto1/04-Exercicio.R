@@ -5,9 +5,6 @@
 
 # Definindo a pasta de trabalho
 
-setwd("C:/Users/padrao/OneDrive/Documentos/Curso-Power-BI-DSA/Cap12/projetos")
-getwd()
-
 # Carregando o dataset
 notas <- read.csv("Notas.csv", fileEncoding = "windows-1252")
 
